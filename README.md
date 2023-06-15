@@ -2,7 +2,7 @@
 Add multiple users to moodle groups automatically
 
 - Download resource override extension for Chrome.
-- Add the url of groups page in the tab URL text box. For example, https://odtuclass2022s.metu.edu.tr/group/members*
+- Add the URL of groups page in the tab URL text box. For example, https://odtuclass2022s.metu.edu.tr/group/members*
 - Add rule -> Inject file
 - Put add_id for the file name
 - Edit file, put the contents of add_id.js in the file, save and close.
